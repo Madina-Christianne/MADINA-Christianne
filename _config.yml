@@ -1,6 +1,6 @@
-title: "Christianne MADINA"
-logo: img/mmc.jpeg
+title: "Christianne Madina"
+logo: /img/mmc.jpeg
 description: "Aspiring Financial Economist"
-show_downloads: true
-theme: Jekyll-theme-cayman
-lang: Eng
+show_downloads: false
+theme: jekyll-theme-cayman
+lang: en
