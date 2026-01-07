@@ -1,4 +1,4 @@
-## Hi there 👋
+## Christianne MADINA's Portfolio
 
 I’m Christianne Madina, an economics student interested in understanding how banks, public policies, and incentives interact in practice, especially when regulation meets real-world behavior.
 
