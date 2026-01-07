@@ -1,4 +1,7 @@
-![mmc](https://github.com/user-attachments/assets/18dee2f8-1c81-48d4-90c0-84b604eadaf5)
+<p align="center">
+  <img src="img/mmc.jpeg" width="180">
+</p>
+
 
 
 I’m Christianne Madina, an economics student interested in understanding how banks, public policies, and incentives interact in practice, especially when regulation meets real-world behavior.
