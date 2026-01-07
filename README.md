@@ -16,6 +16,9 @@ My academic interests lie in applied econometrics, public policy evaluation, and
 - **SAS** — regulatory-style datasets and institutional analysis
 - **Excel / PowerPoint** - data handling, visualization, and reporting
 
+## Projects
+
+
 ## 📚 Reading & Intellectual Influences
 I am an avid reader of economics and political economy, particularly works that critically examine how markets and institutions function.
 
