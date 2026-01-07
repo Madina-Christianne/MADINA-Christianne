@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="img/mmc.jpeg" width="180">
+<p align="left">                                                    I’m Christianne Madina, an economics student interested in understanding how banks, public policies, and incentives interact in practice, especially when regulation meets real-world behavior.
+  <img src="img/mmc.jpeg" width="180">                              I aspire to become an economist with a strong finance background, with a focus on financial risk, banking regulation, and macro-financial stability.
 </p>
 
-
-
-I’m Christianne Madina, an economics student interested in understanding how banks, public policies, and incentives interact in practice, especially when regulation meets real-world behavior.
-
-I aspire to become an economist with a strong finance background, with a focus on financial risk, banking regulation, and macro-financial stability.
 
 I am fluent in French and English, speak Dutch, and I am currently learning German and Spanish.
 
