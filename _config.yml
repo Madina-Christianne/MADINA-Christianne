@@ -1,5 +1,8 @@
 title: "Christianne Madina"
-logo: /img/mmc.jpeg
+logo: <p align="center">
+  <img src="img/mmc.jpeg" width="180">
+</p>
+
 description: "Aspiring Financial Economist"
 show_downloads: false
 theme: jekyll-theme-cayman
