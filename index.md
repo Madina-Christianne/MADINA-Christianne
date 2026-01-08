@@ -1,6 +1,4 @@
-## 
 
-## About Me
 
 <img src="img/mmc.jpeg" width="180" align="right">
 
