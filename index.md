@@ -1,4 +1,4 @@
-## CHRISTIANNE MADINA
+## 
 
 ## About Me
 
@@ -18,8 +18,7 @@ My academic interests lie in applied econometrics, public policy evaluation, and
 ### Climate Transition Risks and Bank Capital Dynamics in Europe
 
 This project studies how European banks adjust capital buffers, leverage, and balance sheets in response to climate transition policies.
-
-🔗 ****  
+ 
 [Climate Transition Risks on European Banks](https://github.com/Madina-Christianne/Climate-transition-risks-on-European-banks)
 
 ---
@@ -31,5 +30,5 @@ This project studies how European banks adjust capital buffers, leverage, and ba
 
 
 ## Contact
-- 📧 Email: [mobiamadina@gmail.com]
+- 📧 Email: [mobiamadina@gmail.com](https://mail.google.com/mail/)
 - 💼 LinkedIn: [christianne-madina](https://www.linkedin.com/in/christianne-madina-5b075b187/)
