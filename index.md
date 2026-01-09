@@ -28,5 +28,5 @@ This project studies how European banks adjust capital buffers, leverage, and ba
 
 
 ## Contact
-- 📧 Email: [mobiamadina@gmail.com](https://mail.google.com/mail/)
+- 📧 Email: [mobiamadina@gmail.com]
 - 💼 LinkedIn: [christianne-madina](https://www.linkedin.com/in/christianne-madina-5b075b187/)
